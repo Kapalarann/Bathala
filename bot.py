@@ -20,7 +20,7 @@ async def main():
         await bot.load_extension("cogs.actions")
         await bot.load_extension("cogs.character")
         await bot.load_extension("cogs.inventory")
-        await bot.start("MTM4NjM4OTY1Mzc5NTYzOTM4Nw.GOCYl7.ktU2SAAEOAFrXwXuZiOkr2xXJ8t82bYCfQHb-I")
+        await bot.start(Bot Token)
         
 if __name__ == "__main__":
     asyncio.run(main())
