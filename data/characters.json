@@ -1,0 +1,100 @@
+{
+  "706846835813253133": {
+    "name": "Jonas",
+    "background": "Scavenger",
+    "hp": 100,
+    "injury": null,
+    "skills": {
+      "Scavenging": 5,
+      "Crafting": 0,
+      "Farming": 0,
+      "Cooking": 0,
+      "Melee": 0,
+      "Ranged": 0,
+      "Medical": 2,
+      "Stealth": 2
+    },
+    "inventory": [
+      "materials",
+      "Crowbar",
+      "E:Crowbar",
+      "ammo",
+      "E:Knife",
+      "food",
+      "food"
+    ],
+    "unallocated_points": 0,
+    "allocated": true,
+    "image": "https://i.pinimg.com/736x/c6/a0/5e/c6a05e1d984d9da5ab02e9f746df0962.jpg",
+    "hunger": 119,
+    "thirst": 72,
+    "last_tick": "2025-06-25T11:43:07"
+  },
+  "441913090049835009": {
+    "name": "Rubia",
+    "background": "Medic",
+    "hp": 100,
+    "injury": null,
+    "skills": {
+      "Scavenging": 0,
+      "Crafting": 0,
+      "Farming": 2,
+      "Cooking": 0,
+      "Melee": 1,
+      "Ranged": 0,
+      "Medical": 6,
+      "Stealth": 0
+    },
+    "inventory": [
+      "E:Medical Kit",
+      "Bandage x2",
+      "Painkillers",
+      "medicine",
+      "medicine",
+      "water",
+      "E:Hunting Bow"
+    ],
+    "unallocated_points": 0,
+    "allocated": true,
+    "image": "https://static.wikia.nocookie.net/path-to-nowhere/images/c/c0/Shalom_Prisonphoto.png/revision/latest?cb=20231019112339",
+    "hunger": 120,
+    "thirst": 72,
+    "last_tick": "2025-06-25T11:43:07"
+  },
+  "374766242600583171": {
+    "name": "Drakon",
+    "background": "Soldier",
+    "hp": 100,
+    "injury": null,
+    "skills": {
+      "Scavenging": 1,
+      "Crafting": 0,
+      "Farming": 0,
+      "Cooking": 2,
+      "Melee": 3,
+      "Ranged": 2,
+      "Medical": 1,
+      "Stealth": 0
+    },
+    "inventory": [
+      "E:Pistol",
+      "Ammo x10",
+      "Combat Knife",
+      "Bandage",
+      "food",
+      "food",
+      "Medical Kit",
+      "ammo",
+      "ammo",
+      "ammo",
+      "Combat Knife",
+      "Flashlight"
+    ],
+    "unallocated_points": 0,
+    "allocated": true,
+    "image": "https://media.mythopedia.com/6kg5ZfeIoaVY1T1mzTI9Il/71950122c133c64c21ec4d3c24f3d5e5/dragonborn-dnd-name-generator.jpeg?w=640&ar=3:2&fit=crop&crop=top&q=50&auto=compress,format%20640w",
+    "hunger": 120,
+    "thirst": 72,
+    "last_tick": "2025-06-25T11:43:07"
+  }
+}
